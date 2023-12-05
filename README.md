@@ -1,4 +1,4 @@
-# Project_1_repo
+# Ontario Travel Project 1
 
 ## Description of the Project 
 
@@ -7,7 +7,7 @@ This project talks about
 2. 
 3. 
 
-THe analysis we're going to do is .. 
+The analysis we're going to do is .. 
 1. 
 2.
 3. 
@@ -32,7 +32,10 @@ The members in this group are:
 
 ## Datasets used: 
 
-1. 
+1. Geoapify (https://www.geoapify.com/)
+2. Amadeus API - Flight Volumne (https://developers.amadeus.com/self-service/category/market-insights/api-doc/flight-busiest-traveling-period/api-reference)
+3. StatCan (https://www150.statcan.gc.ca/n1/pub/24-25-0001/242500012020001-eng.htm)
+4. Weather API (https://openweathermap.org/api)
 
 ## Code snippets
 
@@ -42,5 +45,3 @@ The members in this group are:
 
 
 ## Limitations
-
-
