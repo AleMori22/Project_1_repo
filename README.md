@@ -24,7 +24,7 @@ The members in this group are:
 2. Alessandro Mori (@AleMori22)
 3. Arti Bhatia (@Artib03)
 4. Khemaka Oo (@Khemaka14)
-5. Sunghead Cho (@sunghea.cho.0409@gmail.com)
+5. Sunghead Cho (@sunghea)
 
 ## Work breakdown strucutre
 
