@@ -43,6 +43,7 @@ Traveler Profile: All
 3. StatCan (https://www150.statcan.gc.ca/n1/pub/24-25-0001/242500012020001-eng.htm)
 4. Weather API (https://openweathermap.org/api)
 5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
+6. Open Table API - (https://dev.opentable.com/partner-portal)
 
 ## Code snippets
 TBD
