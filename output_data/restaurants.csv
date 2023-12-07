@@ -1,0 +1,101 @@
+Restaurant ID,Location,Restaurant Name,Restaurant Address,Lat,Lng
+0,Toronto Distillery District,Archeo Trattoria,"31 Trinity Street, Old Toronto, ON M5A 3C4, Canada",43.65068200054068,-79.3596299
+1,Toronto Distillery District,El Catrin,"Mill Street, Old Toronto, ON M5A 3C4, Canada",43.65069270054068,-79.35924499999999
+2,Toronto Distillery District,Oyster House & grill,"Tank House Lane, Old Toronto, ON M5A 3C4, Canada",43.65034980054068,-79.358811
+3,Toronto Distillery District,Pure Spirits,"17 Tank House Lane, Old Toronto, ON M5A 3C4, Canada",43.65039450054068,-79.3587541
+4,Toronto Distillery District,The Fermenting Cellar,"28 Distillery Lane, Old Toronto, ON M5A 3C4, Canada",43.64980610054069,-79.36053809999999
+5,Toronto Distillery District,Cluny,"Tank House Lane, Old Toronto, ON M5A 3C4, Canada",43.65060410054069,-79.35786509999998
+6,Toronto Distillery District,Mom and Pops,"262 The Esplanade, Old Toronto, ON M5A 4J5, Canada",43.650014000540686,-79.3638501
+7,Toronto Distillery District,Gilead Café + Wine Bar,"4 Gilead Place, Old Toronto, ON M5A 3C9, Canada",43.653558200540644,-79.3609455
+8,Toronto Distillery District,Freshii,"351 King Street East, Old Toronto, ON M5A 1L1, Canada",43.65129990054067,-79.36443359999998
+9,Toronto Distillery District,The Corktown Kitchen,"King Street East, Old Toronto, ON M5A 1L3, Canada",43.653421700540655,-79.3622858
+10,Toronto Distillery District,King Deli-Cafe,"King Street East, Old Toronto, ON M5A 1M3, Canada",43.65399610054064,-79.36078639999998
+11,Toronto Distillery District,The Keating Channel Pub & Grill,"2 Villiers Street, Old Toronto, ON M4M 3P2, Canada",43.64763710054072,-79.3533929
+12,Toronto Distillery District,Mangia & Bevi,"260 King Street East, Old Toronto, ON M5A 4L5, Canada",43.652245200540655,-79.3664233
+13,Toronto Distillery District,Bodega Henriette,"234 King Street East, Old Toronto, ON M5A 1K2, Canada",43.651495200540666,-79.367765
+14,Toronto Distillery District,Mavericks Burger Co,"15 Merchant's Wharf, Old Toronto, ON M5A 0L1, Canada",43.64521040054076,-79.3643126
+15,Toronto Distillery District,On the Rocks,"Front Street East, Old Toronto, ON M5A 3Z4, Canada",43.65017400054068,-79.368189
+16,Toronto Distillery District,Ardo,"King Street East, Old Toronto, ON M5A 1J7, Canada",43.65109340054067,-79.3684798
+17,Toronto Distillery District,Figs Breakfast & Lunch,"Parliament Street, Old Toronto, ON M5A 1T2, Canada",43.65583730054061,-79.3647018
+18,Toronto Distillery District,Bellissimo,"The Esplanade, Old Toronto, ON M5A 4A5, Canada",43.6488421005407,-79.3687241
+19,Toronto Distillery District,Patrician Grill,"219 King Street East, Old Toronto, ON M5A 1J7, Canada",43.65096670054068,-79.36909969999999
+20,Toronto South West,360 Restaurant,"290 Bremner Boulevard, Old Toronto, ON M5V 3L9, Canada",43.64258250054078,-79.387064
+21,Toronto South West,The pint,"Convention centre loading dock, Old Toronto, ON M5V 3C7, Canada",43.64369840054077,-79.38844419999998
+22,Toronto South West,The Rec Room,"255 Bremner Boulevard, Old Toronto, ON M5V 3L9, Canada",43.6410584005408,-79.38660479999999
+23,Toronto South West,Boston Pizza,"PATH, Old Toronto, ON M5V 3C7, Canada",43.64422500054076,-79.388488
+24,Toronto South West,Steam Whistle Brewing,"255 Bremner Boulevard, Old Toronto, ON M5V 3L9, Canada",43.640966800540795,-79.38517019999999
+25,Toronto South West,Azure Restaurant & Bar,"225 Front Street West, Old Toronto, ON M5V 2X3, Canada",43.64443400054075,-79.38539
+26,Toronto South West,SOCO Kitchen + Bar,"75 Lower Simcoe Street, Old Toronto, ON M5J 3A6, Canada",43.64267910054078,-79.3838454
+27,Toronto South West,Scaddabush,"200 Front Street West, Old Toronto, ON M5V 2X3, Canada",43.64485030054076,-79.38541679999999
+28,Toronto South West,Joe Badali's Ristorante Italiano & Bar,"156 Front Street West, Old Toronto, ON M5V 3B7, Canada",43.643480100540756,-79.3906533
+29,Toronto South West,Freshii,"120 Bremner Boulevard, Old Toronto, ON M5J 3A6, Canada",43.64318030054076,-79.3833312
+30,Toronto South West,Evviva Restaurant,"25 Lower Simcoe Street, Old Toronto, ON M5J 3A6, Canada",43.64154110054079,-79.38331489999999
+31,Toronto South West,Sunset Grill,"Wellington Street West, Old Toronto, ON M5V 3C7, Canada",43.64543890054075,-79.38777029999999
+32,Toronto South West,The Shore Club,"155 Wellington Street West, Old Toronto, ON M5V 3H6, Canada",43.64554450054074,-79.38614869999999
+33,Toronto South West,Buster's Sea Cove,"PATH, Old Toronto, ON M5J 0A8, Canada",43.64316390054076,-79.38286159999998
+34,Toronto South West,Lucky Clover,"17 Lower Simcoe Street, Old Toronto, ON M5V 3L9, Canada",43.64114100054079,-79.38325659999998
+35,Toronto South West,Z-teca Gourmet Burritos,"PATH, Old Toronto, ON M5J 0A8, Canada",43.64309380054077,-79.38283489999999
+36,Toronto South West,TAVERNA mercatto,"120 Bremner Boulevard, Old Toronto, ON M5J 3A6, Canada",43.64288740054077,-79.3827034
+37,Toronto South West,St. Louis Bar & Grill,"Bremner Boulevard, Old Toronto, ON M5V 3V9, Canada",43.6403904005408,-79.3905411
+38,Toronto South West,Harvest Green,"200 Wellington Street West, Old Toronto, ON M5V 3C7, Canada",43.64567270054074,-79.38882679999999
+39,Toronto South West,Canyon Creek,"Front Street West, Old Toronto, ON M5J 1T1, Canada",43.64512820054074,-79.3839844
+40,Toronto North West,Pompette,"597 College Street, Old Toronto, ON M6G 3A7, Canada",43.65507910054064,-79.413977
+41,Toronto North West,Tondou Ramen,"596 College Street, Old Toronto, ON M6G 1C2, Canada",43.655303200540615,-79.41406420000001
+42,Toronto North West,Nile River,"598 College Street, Old Toronto, ON M6G 1B4, Canada",43.655280200540616,-79.4141342
+43,Toronto North West,Café Diplomatico,"594 College Street, Old Toronto, ON M6G 1B3, Canada",43.65536900054062,-79.4137306
+44,Toronto North West,La Forchetta,"613 College Street, Old Toronto, ON M6G 1B5, Canada",43.65505750054062,-79.4141576
+45,Toronto North West,Hot Mess,"615 College Street, Old Toronto, ON M6G 1B5, Canada",43.65504920054062,-79.4141986
+46,Toronto North West,Grancardo,"College Street, Old Toronto, ON M6G 1C2, Canada",43.65517270054063,-79.4135308
+47,Toronto North West,Hapa Izakaya,"602 College Street, Old Toronto, ON M6G 1B4, Canada",43.65525500054061,-79.4142636
+48,Toronto North West,Trattoria Taverniti,"591 College Street, Old Toronto, ON M6G 1C2, Canada",43.65514670054062,-79.4134866
+49,Toronto North West,Pizzeria Libretto,"589 College Street, Old Toronto, ON M6G 1C2, Canada",43.65514990054062,-79.41345949999999
+50,Toronto North West,Utopia,"586 College Street, Old Toronto, ON M6G 1B3, Canada",43.65541760054062,-79.41349549999998
+51,Toronto North West,Rudy,"619 College Street, Old Toronto, ON M6G 1B5, Canada",43.655010400540625,-79.4144004
+52,Toronto North West,Sidecar Restaurant,"577 College Street, Old Toronto, ON M6G 1B2, Canada",43.655230300540616,-79.413163
+53,Toronto North West,Dining Room,"College Street, Old Toronto, ON M6G 1C2, Canada",43.65524600054061,-79.41308679999999
+54,Toronto North West,BellyBuster,"572 College Street, Old Toronto, ON M6G 1B3, Canada",43.65552400054061,-79.4129587
+55,Toronto North West,Weldon Park,"569 College Street, Old Toronto, ON M6G 1B2, Canada",43.655311700540615,-79.41282319999999
+56,Toronto North West,Sashimi Island,"635 College Street, Old Toronto, ON M6G 1B4, Canada",43.65488000054062,-79.4149479
+57,Toronto North West,Duff's Famous Wings,"558 College Street, Old Toronto, ON M6G 1B1, Canada",43.655711200540615,-79.41220669999998
+58,Toronto North West,Pimentas Grill,"648 College Street, Old Toronto, ON M6G 1B8, Canada",43.65514440054063,-79.4160525
+59,Toronto North West,Kasai Grill House,"650 College Street, Old Toronto, ON M6G 1B8, Canada",43.65515610054063,-79.4161357
+60,Toronto Yorkville,The Oxley,"121 Yorkville Avenue, Old Toronto, ON M5R 1C4, Canada",43.67053573992822,-79.39295086291513
+61,Toronto Yorkville,Amber Restaurant And Bar,"119 Yorkville Avenue, Old Toronto, ON M5R 1B9, Canada",43.67064800054042,-79.3929335
+62,Toronto Yorkville,Kasamoto,"115 Yorkville Avenue, Old Toronto, ON M5R 1C1, Canada",43.670619546092304,-79.39277152980416
+63,Toronto Yorkville,Hemingway's,"142 Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.67000630054042,-79.39289379999998
+64,Toronto Yorkville,Shogun Japanese Restaurant & Sushi Bar,"Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.66994700054042,-79.393286
+65,Toronto Yorkville,Jacques Bistro du Parc,"Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.67020720054042,-79.3921078
+66,Toronto Yorkville,Alobar,"162 Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.66995700054042,-79.39359359999999
+67,Toronto Yorkville,Chabrol,"90 Yorkville Avenue, Old Toronto, ON M5R 1B9, Canada",43.6712821005404,-79.3920785
+68,Toronto Yorkville,Sushi Inn,"Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.67022850054042,-79.3918817
+69,Toronto Yorkville,Sorelle and Co.,"155 Yorkville Avenue, Old Toronto, ON M5R 0B4, Canada",43.67030250054042,-79.3944791
+70,Toronto Yorkville,Il Posto Nuovo,"Avenue Road, Old Toronto, ON M5R 2G2, Canada",43.67071980054042,-79.39465279999999
+71,Toronto Yorkville,Yamato,"Bellair Street, Old Toronto, ON M5R 1B8, Canada",43.67061950054042,-79.3912247
+72,Toronto Yorkville,sassafraz,"100 Cumberland Street, Old Toronto, ON M5R 3V5, Canada",43.67039350054043,-79.39108589999998
+73,Toronto Yorkville,Trattoria Nervosa,"Bellair Street, Old Toronto, ON M5R 1B8, Canada",43.67105340054041,-79.3910963
+74,Toronto Yorkville,Vaticano Ristorante,"Bellair Street, Old Toronto, ON M5R 1B8, Canada",43.670752900540414,-79.39096939999999
+75,Toronto Yorkville,Dynasty Chinese Cuisine,"Yorkville Avenue, Old Toronto, ON M5R 1B8, Canada",43.67109900054041,-79.39101479999998
+76,Toronto Yorkville,70 Down Yorkville,"70 Yorkville Avenue, Old Toronto, ON M5R 1B8, Canada",43.67136640054041,-79.39103399999999
+77,Toronto Yorkville,Dynasty Chinese Cuisine  (Last Straw Distillery),"69 Yorkville Avenue, Old Toronto, ON M5R 1B8, Canada",43.67104900054041,-79.39083199999999
+78,Toronto Yorkville,Flo's,"70 Yorkville Avenue, Old Toronto, ON M5R 1B8, Canada",43.67128240054041,-79.39087089999998
+79,Toronto Yorkville,Annona Restaurant,"Avenue Road, Old Toronto, ON M5R 2G2, Canada",43.669570300540435,-79.3946992
+80,Ottawa City Centre,Nate's Deli,"152 Sparks Street, (Old) Ottawa, ON K1P 5M4, Canada",45.42198670042247,-75.69913049999998
+81,Ottawa City Centre,Bier Markt,"156 Sparks Street, (Old) Ottawa, ON K1P 5C1, Canada",45.421717500422524,-75.69969799999998
+82,Ottawa City Centre,3 Brewers,"240 Sparks Street, (Old) Ottawa, ON K1P 6C0, Canada",45.42091040042262,-75.7014335
+83,Ottawa City Centre,Mulligans Golf Bar,"201 Queen Street, (Old) Ottawa, ON K1P 5C9, Canada",45.42085490042264,-75.7004001
+84,Ottawa City Centre,Aiana,"50 O'Connor Street, (Old) Ottawa, ON K1P 5M4, Canada",45.421094000422585,-75.6988158
+85,Ottawa City Centre,Riviera,"62 Sparks Street, (Old) Ottawa, ON K1P 5A0, Canada",45.42306907331924,-75.69632996061908
+86,Ottawa City Centre,Shakey's,"111 Albert Street, (Old) Ottawa, ON K1P 1A5, Canada",45.42144350042255,-75.6974641
+87,Ottawa City Centre,Carleton Grill,"150 Albert Street, (Old) Ottawa, ON K1P 1A5, Canada",45.42092450042262,-75.6975751
+88,Ottawa City Centre,Rice & Roll Sushi,"234 Queen Street, (Old) Ottawa, ON K1P 6C0, Canada",45.420048100422726,-75.7016835
+89,Ottawa City Centre,Red Pepper Thai-Viet,"246 Queen Street, (Old) Ottawa, ON K1P 6C0, Canada",45.42001310042272,-75.7017784
+90,Ottawa City Centre,Mumbai Masala Cafe,"228 Albert Street, (Old) Ottawa, ON K1P 6B9, Canada",45.42001710042273,-75.6998397
+91,Ottawa City Centre,Edoko Japanese Steak House,"64 Queen Street, (Old) Ottawa, ON K1P 5C6, Canada",45.422519600422426,-75.69585659999998
+92,Ottawa City Centre,Mad Radish,"Albert Street, (Old) Ottawa, ON K1P 1A5, Canada",45.42146040042255,-75.6964503
+93,Ottawa City Centre,Wilfred's,"1 Rideau Street, (Old) Ottawa, ON K1P 1C7, Canada",45.42536440042206,-75.6955164
+94,Ottawa City Centre,ARC Lounge,"140 Slater Street, (Old) Ottawa, ON K1P 5H3, Canada",45.42047600042267,-75.6968126
+95,Ottawa City Centre,Spin Kitchen & Bar,"100 Kent Street, (Old) Ottawa, ON K1P 6Z0, Canada",45.41968710042276,-75.70331299999998
+96,Ottawa City Centre,C’est Japon À Suisha,"208 Slater Street, (Old) Ottawa, ON K1P 5H8, Canada",45.41943920042278,-75.6991906
+97,Ottawa City Centre,India Palace,"292 Albert Street, (Old) Ottawa, ON K1P 6A9, Canada",45.419064103201755,-75.70177561841932
+98,Ottawa City Centre,Bibliothèque Café,"88 Slater Street, (Old) Ottawa, ON K1P 6L7, Canada",45.42134530042256,-75.6954256
+99,Ottawa City Centre,Kyoto Sushi,"132 Bank Street, (Old) Ottawa, ON K1P 5N7, Canada",45.419196200422824,-75.69980999999999
