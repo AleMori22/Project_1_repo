@@ -39,7 +39,7 @@ Traveler Profile: All
 ## Datasets used: 
 
 1. Geoapify (https://www.geoapify.com/)
-2. Amadeus API - Flight Volumne (https://developers.amadeus.com/self-service/category/market-insights/api-doc/flight-busiest-traveling-period/api-reference)
+2. ~~Amadeus API - Flight Volumne (https://developers.amadeus.com/self-service/category/market-insights/api-doc/flight-busiest-traveling-period/api-reference)~~ no flight data for Canadian airports. 
 3. StatCan (https://www150.statcan.gc.ca/n1/pub/24-25-0001/242500012020001-eng.htm)
 4. Weather API (https://openweathermap.org/api)
 5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
