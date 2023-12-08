@@ -1,0 +1,148 @@
+﻿_id,Year,Status,Origin,Destination,Direction,Visits per 1000 Population in the Origin,Spending per Visit (dollars)
+1,2013,Actual,Canada,Ontario,Inbound,3653.177971,122.2531539
+2,2014,Preliminary,Canada,Ontario,Inbound,3545.798729,134.8285003
+3,2015,Forecast,Canada,Ontario,Inbound,3721.573735,127.1987794
+4,2016,Forecast,Canada,Ontario,Inbound,3706.724111,123.9161722
+5,2017,Forecast,Canada,Ontario,Inbound,3727.809609,134.2551566
+6,2018,Forecast,Canada,Ontario,Inbound,3752.888388,136.1708019
+7,2019,Forecast,Canada,Ontario,Inbound,3776.110747,136.3269646
+8,2013,Actual,Ontario,Ontario,Inbound,9020.443926,111.2883333
+9,2014,Preliminary,Ontario,Ontario,Inbound,8746.225842,121.5725708
+10,2015,Forecast,Ontario,Ontario,Inbound,9176.200349,115.4365336
+11,2016,Forecast,Ontario,Ontario,Inbound,9117.611416,112.0378943
+12,2017,Forecast,Ontario,Ontario,Inbound,9154.979338,122.2363718
+13,2018,Forecast,Ontario,Ontario,Inbound,9208.559687,123.114411
+14,2019,Forecast,Ontario,Ontario,Inbound,9262.463371,122.4593135
+15,2013,Actual,Other  Provinces,Ontario,Inbound,285.23695,339.8411938
+16,2014,Preliminary,Other  Provinces,Ontario,Inbound,290.7044157,384.4625421
+17,2015,Forecast,Other  Provinces,Ontario,Inbound,311.0718842,344.1419303
+18,2016,Forecast,Other  Provinces,Ontario,Inbound,317.7268098,337.4090212
+19,2017,Forecast,Other  Provinces,Ontario,Inbound,322.4076082,348.4001722
+20,2018,Forecast,Other  Provinces,Ontario,Inbound,323.7278737,369.6103298
+21,2019,Forecast,Other  Provinces,Ontario,Inbound,324.7238997,385.1697409
+22,2013,Actual,United States,Ontario,Inbound,33.51655936,297.1647419
+23,2014,Preliminary,United States,Ontario,Inbound,32.65568135,311.8716325
+24,2015,Forecast,United States,Ontario,Inbound,35.45282843,332.9817645
+25,2016,Forecast,United States,Ontario,Inbound,39.55960731,330.8441406
+26,2017,Forecast,United States,Ontario,Inbound,42.22353311,338.1179143
+27,2018,Forecast,United States,Ontario,Inbound,41.76610928,361.6479624
+28,2019,Forecast,United States,Ontario,Inbound,42.81357073,366.6559865
+29,2013,Actual,Michigan,Ontario,Inbound,299.7059584,127.4539597
+30,2014,Preliminary,Michigan,Ontario,Inbound,286.7991606,226.2110007
+31,2015,Forecast,Michigan,Ontario,Inbound,308.5721938,200.8628649
+32,2016,Forecast,Michigan,Ontario,Inbound,348.4945339,181.3955137
+33,2017,Forecast,Michigan,Ontario,Inbound,405.5811609,175.664754
+34,2018,Forecast,Michigan,Ontario,Inbound,356.7204075,200.4160921
+35,2019,Forecast,Michigan,Ontario,Inbound,384.3633854,203.2190207
+36,2013,Actual,New York,Ontario,Inbound,162.1148257,176.2312983
+37,2014,Preliminary,New York,Ontario,Inbound,155.6894068,173.0468607
+38,2015,Forecast,New York,Ontario,Inbound,165.8515727,200.635023
+39,2016,Forecast,New York,Ontario,Inbound,192.601866,231.6319199
+40,2017,Forecast,New York,Ontario,Inbound,193.7220441,237.7474659
+41,2018,Forecast,New York,Ontario,Inbound,199.5364667,244.9060339
+42,2019,Forecast,New York,Ontario,Inbound,202.5472225,252.3850776
+43,2013,Actual,Other Border States,Ontario,Inbound,33.03617022,384.1298466
+44,2014,Preliminary,Other Border States,Ontario,Inbound,32.81449502,223.2005307
+45,2015,Forecast,Other Border States,Ontario,Inbound,41.26886713,305.7874237
+46,2016,Forecast,Other Border States,Ontario,Inbound,46.45903437,299.4212946
+47,2017,Forecast,Other Border States,Ontario,Inbound,49.54389705,297.7260248
+48,2018,Forecast,Other Border States,Ontario,Inbound,53.30329942,294.8052855
+49,2019,Forecast,Other Border States,Ontario,Inbound,55.6106495,298.8544081
+50,2013,Actual,Other US States,Ontario,Inbound,11.36318519,574.6121677
+51,2014,Preliminary,Other US States,Ontario,Inbound,11.50122753,620.0243275
+52,2015,Forecast,Other US States,Ontario,Inbound,11.75477069,651.2471297
+53,2016,Forecast,Other US States,Ontario,Inbound,12.46342537,658.354994
+54,2017,Forecast,Other US States,Ontario,Inbound,13.16901947,699.8240004
+55,2018,Forecast,Other US States,Ontario,Inbound,13.48080721,736.0202342
+56,2019,Forecast,Other US States,Ontario,Inbound,13.27254645,762.166113
+57,2013,Actual,United Kingdom,Ontario,Inbound,4.303087298,1956.109016
+58,2014,Preliminary,United Kingdom,Ontario,Inbound,4.394751831,2175.324654
+59,2015,Forecast,United Kingdom,Ontario,Inbound,4.803967373,2058.218949
+60,2016,Forecast,United Kingdom,Ontario,Inbound,5.130356898,1900.221278
+61,2017,Forecast,United Kingdom,Ontario,Inbound,5.79748446,1906.463768
+62,2018,Forecast,United Kingdom,Ontario,Inbound,6.016791078,1967.362421
+63,2019,Forecast,United Kingdom,Ontario,Inbound,5.825347645,2030.811294
+64,2013,Actual,France,Ontario,Inbound,2.442561653,1512.1504
+65,2014,Preliminary,France,Ontario,Inbound,2.001804092,1620.408691
+66,2015,Forecast,France,Ontario,Inbound,2.208816157,1258.737443
+67,2016,Forecast,France,Ontario,Inbound,2.232821906,1088.436766
+68,2017,Forecast,France,Ontario,Inbound,2.325489764,1010.056865
+69,2018,Forecast,France,Ontario,Inbound,2.235513327,942.0135321
+70,2019,Forecast,France,Ontario,Inbound,2.066458779,1067.408719
+71,2013,Actual,Germany,Ontario,Inbound,1.27186159,1916.975963
+72,2014,Preliminary,Germany,Ontario,Inbound,1.636749873,2310.976636
+73,2015,Forecast,Germany,Ontario,Inbound,1.634203649,1339.379346
+74,2016,Forecast,Germany,Ontario,Inbound,1.828790541,1990.56881
+75,2017,Forecast,Germany,Ontario,Inbound,1.829238753,1576.679577
+76,2018,Forecast,Germany,Ontario,Inbound,1.699060819,2062.920355
+77,2019,Forecast,Germany,Ontario,Inbound,1.641648093,1945.374003
+78,2013,Actual,Japan,Ontario,Inbound,0.666751154,2300.479186
+79,2014,Preliminary,Japan,Ontario,Inbound,0.930424145,2146.791989
+80,2015,Forecast,Japan,Ontario,Inbound,0.956615157,2212.550796
+81,2016,Forecast,Japan,Ontario,Inbound,1.057671234,1945.192927
+82,2017,Forecast,Japan,Ontario,Inbound,1.022778757,2010.146093
+83,2018,Forecast,Japan,Ontario,Inbound,0.965117614,2221.819853
+84,2019,Forecast,Japan,Ontario,Inbound,0.911967015,2320.137275
+85,2013,Actual,China,Ontario,Inbound,0.096157661,2614.242591
+86,2014,Preliminary,China,Ontario,Inbound,0.144040256,3391.755809
+87,2015,Forecast,China,Ontario,Inbound,0.161750216,3053.091144
+88,2016,Forecast,China,Ontario,Inbound,0.167063392,3102.236307
+89,2017,Forecast,China,Ontario,Inbound,0.168499375,3466.775159
+90,2018,Forecast,China,Ontario,Inbound,0.170710652,3653.304187
+91,2019,Forecast,China,Ontario,Inbound,0.17558415,3750.168294
+92,2013,Actual,South Korea,Ontario,Inbound,1.195669762,2411.101246
+93,2014,Preliminary,South Korea,Ontario,Inbound,2.161857717,2472.029637
+94,2015,Forecast,South Korea,Ontario,Inbound,2.517349454,1730.831346
+95,2016,Forecast,South Korea,Ontario,Inbound,2.464669339,1647.501535
+96,2017,Forecast,South Korea,Ontario,Inbound,2.542324772,1690.903248
+97,2018,Forecast,South Korea,Ontario,Inbound,2.638130595,1731.84065
+98,2019,Forecast,South Korea,Ontario,Inbound,2.703511281,1781.432691
+99,2013,Actual,India,Ontario,Inbound,0.081863439,2263.085645
+100,2014,Preliminary,India,Ontario,Inbound,0.104943893,2916.078608
+101,2015,Forecast,India,Ontario,Inbound,0.114765485,2317.948029
+102,2016,Forecast,India,Ontario,Inbound,0.120107912,2217.56824
+103,2017,Forecast,India,Ontario,Inbound,0.130097565,2552.100361
+104,2018,Forecast,India,Ontario,Inbound,0.129799989,2473.663805
+105,2019,Forecast,India,Ontario,Inbound,0.128832355,2409.127974
+106,2013,Actual,Mexico,Ontario,Inbound,0.37796547,1597.578173
+107,2014,Preliminary,Mexico,Ontario,Inbound,0.642466427,1845.788054
+108,2015,Forecast,Mexico,Ontario,Inbound,0.793438669,1732.774016
+109,2016,Forecast,Mexico,Ontario,Inbound,0.728922258,1835.120175
+110,2017,Forecast,Mexico,Ontario,Inbound,0.657866572,1881.96393
+111,2018,Forecast,Mexico,Ontario,Inbound,0.654676144,1950.774027
+112,2019,Forecast,Mexico,Ontario,Inbound,0.642918705,2043.769498
+113,2013,Actual,Brazil,Ontario,Inbound,0.24353133,3101.565695
+114,2014,Preliminary,Brazil,Ontario,Inbound,0.305315027,3855.881335
+115,2015,Forecast,Brazil,Ontario,Inbound,0.375326243,2486.337087
+116,2016,Forecast,Brazil,Ontario,Inbound,0.328942514,2621.102898
+117,2017,Forecast,Brazil,Ontario,Inbound,0.361830701,2751.34391
+118,2018,Forecast,Brazil,Ontario,Inbound,0.381543823,2802.729043
+119,2019,Forecast,Brazil,Ontario,Inbound,0.386328987,2902.643842
+120,2013,Actual,Other Overseas,Ontario,Inbound,0.27933631,1927.644641
+121,2014,Preliminary,Other Overseas,Ontario,Inbound,0.283219218,2210.948848
+122,2015,Forecast,Other Overseas,Ontario,Inbound,0.291666805,2391.313239
+123,2016,Forecast,Other Overseas,Ontario,Inbound,0.291654308,2634.141236
+124,2017,Forecast,Other Overseas,Ontario,Inbound,0.306508429,2755.412608
+125,2018,Forecast,Other Overseas,Ontario,Inbound,0.321032616,2861.073818
+126,2019,Forecast,Other Overseas,Ontario,Inbound,0.34171642,3039.152498
+127,2013,Actual,Ontario,Other Provinces,Outbound,499.1835998,387.4098104
+128,2014,Preliminary,Ontario,Other Provinces,Outbound,471.9830584,413.967685
+129,2015,Forecast,Ontario,Other Provinces,Outbound,541.6500822,368.0849664
+130,2016,Forecast,Ontario,Other Provinces,Outbound,567.6116417,350.8885258
+131,2017,Forecast,Ontario,Other Provinces,Outbound,580.2606016,343.3373588
+132,2018,Forecast,Ontario,Other Provinces,Outbound,593.3906292,338.4538071
+133,2019,Forecast,Ontario,Other Provinces,Outbound,611.3817846,333.4144897
+134,2013,Actual,Ontario,United States,Outbound,1843.279621,495.4646313
+135,2014,Preliminary,Ontario,United States,Outbound,1708.987026,499.3012875
+136,2015,Forecast,Ontario,United States,Outbound,1446.507191,568.8928036
+137,2016,Forecast,Ontario,United States,Outbound,1278.779379,622.8789175
+138,2017,Forecast,Ontario,United States,Outbound,1325.458286,614.0290849
+139,2018,Forecast,Ontario,United States,Outbound,1344.016742,616.0440311
+140,2019,Forecast,Ontario,United States,Outbound,1346.203846,633.2905144
+141,2013,Actual,Ontario,Overseas,Outbound,304.805711,2794.066166
+142,2014,Preliminary,Ontario,Overseas,Outbound,332.3589839,2532.322153
+143,2015,Forecast,Ontario,Overseas,Outbound,367.9641283,2446.755506
+144,2016,Forecast,Ontario,Overseas,Outbound,383.0344611,2540.711133
+145,2017,Forecast,Ontario,Overseas,Outbound,394.0628489,2733.887185
+146,2018,Forecast,Ontario,Overseas,Outbound,414.6487071,2885.331554
+147,2019,Forecast,Ontario,Overseas,Outbound,435.5656861,2983.818806
