@@ -1,26 +1,29 @@
 ,Name,Address,Reviews
-0,Casa Madera,"550 Wellington St W, Toronto, Ontario M5V 2V5 Canada",2022-12-21T04:02:39-0500
+0,Silent H,"461 King Street West, Toronto, Ontario M5V1K4 Canada",2023-11-17T16:04:18-0500
 1,1 Kitchen Toronto,"550 Wellington St W, Toronto, Ontario M5V 2V4 Canada",2022-02-27T17:11:36-0500
 2,Black + Blue,"130 King St W, Financial District, Toronto, Ontario M5X 2A2 Canada",2023-04-20T12:48:51-0400
-3,LaVinia Restaurant,"2350 Lake Shore Blvd W, Toronto, Ontario M8V 1B6 Canada",2015-10-10T11:43:27-0400
-4,ALO RESTAURANT,"163 Spadina Ave 3rd Floor, Toronto, Ontario M5V 2L6 Canada",2015-09-11T21:50:45-0400
-5,Sportsnet Grill,"1-1 Blue Jays Way Toronto Marriott City Centre Hotel, Toronto, Ontario M5V 1J4 Canada",2019-08-02T08:30:12-0400
-6,Goodfellas Wood Oven Pizza,"1 Old Mill Dr, Toronto, Ontario M6S 0A1 Canada",2017-01-09T13:28:34-0500
-7,Scaramouche Restaurant,"1 Benvenuto Pl, Toronto, Ontario M4V 2L1 Canada",2016-08-31T16:53:32-0400
-8,Richmond Station,"1 Richmond St. West, Toronto, Ontario M5H 3W4 Canada",2014-08-21T17:47:33-0400
-9,Rodney's Oyster House,"469 King St W Basement, Toronto, Ontario M5V 1K4 Canada",2016-10-25T13:42:42-0400
-10,Miku,"105-10 Bay St at Queen’s Quay, Toronto, Ontario M5J 2R8 Canada",2017-09-07T16:40:33-0400
-11,Perfect Chinese Restaurant,"4386 Sheppard Ave East Scarborough ON Canada, Toronto, Ontario M1S 1T8 Canada",2021-01-15T09:47:07-0500
-12,Jacobs & Co. Steakhouse,"12 Brant St, Toronto, Ontario M5V 2M1 Canada",2016-05-14T17:37:32-0400
-13,Cafe Polonez,"195 Roncesvalles Ave, Toronto, Ontario M6R 2L5 Canada",2021-07-06T12:26:54-0400
-14,Silent H,"461 King Street West, Toronto, Ontario M5V1K4 Canada",2023-11-17T16:04:18-0500
-15,Estiatorio VOLOS,"133 Richmond St W, Toronto, Ontario M5H 2L3 Canada",2019-05-10T18:32:18-0400
-16,House on Parliament,"454 Parliament St, Toronto, Ontario M5A 3A2 Canada",2021-08-30T15:58:09-0400
-17,The Keg Steakhouse + Bar - York Street,"165 York St, Toronto, Ontario M5H 3R8 Canada",2018-07-29T20:48:49-0400
-18,The Keg Steakhouse + Bar - Esplanade,"26 The Esplanade Esplanade, Toronto, Ontario M5E 1A7 Canada",2019-09-28T10:47:05-0400
-19,Baro,"Toronto, ON 485 King St W, Toronto, Ontario M5V 1K4 Canada",2017-09-07T12:07:17-0400
-20,Chiado Restaurant,"864 College St, Toronto, Ontario M6H 1A3 Canada",2020-08-06T19:41:39-0400
-21,Lee Restaurant,"497 Richmond St W, Toronto, Ontario M5V 1Y3 Canada",2023-12-05T12:48:15-0500
-22,The Keg Steakhouse + Bar - Mansion,"515 Jarvis St, Toronto, Ontario M4Y 2H7 Canada",2015-09-14T07:07:03-0400
-23,Canoe Restaurant & Bar,"66 Wellington St. W 54th Floor TD Bank Tower, Toronto, Ontario M5K 1H6 Canada",2012-07-17T14:53:11-0400
-24,Via Allegro Ristorante,"1750 The Queensway, Toronto, Ontario M9C 5H5 Canada",2022-03-04T18:18:21-0500
+3,Harriet's Rooftop,"550 Wellington St W Wellington St. West and Bathurst St., Toronto, Ontario M5V 2V4 Canada",2022-12-21T02:46:04-0500
+4,New Orleans Seafood & Steakhouse,"267 Scarlett Rd York, Toronto, Ontario M6N 4L1 Canada",2021-06-21T16:52:03-0400
+5,Benares,"49 Front St E Suite 001, Toronto, Ontario M5E 1B3 Canada",2020-05-04T13:32:24-0400
+6,LaVinia Restaurant,"2350 Lake Shore Blvd W, Toronto, Ontario M8V 1B6 Canada",2015-10-10T11:43:27-0400
+7,ALO RESTAURANT,"163 Spadina Ave 3rd Floor, Toronto, Ontario M5V 2L6 Canada",2015-09-11T21:50:45-0400
+8,Sportsnet Grill,"1-1 Blue Jays Way Toronto Marriott City Centre Hotel, Toronto, Ontario M5V 1J4 Canada",2019-08-02T08:30:12-0400
+9,Goodfellas Wood Oven Pizza,"1 Old Mill Dr, Toronto, Ontario M6S 0A1 Canada",2017-01-09T13:28:34-0500
+10,Scaramouche Restaurant,"1 Benvenuto Pl, Toronto, Ontario M4V 2L1 Canada",2016-08-31T16:53:32-0400
+11,Spring Sushi,"10 Dundas St E, Toronto, Ontario M5B 2G9 Canada",2017-11-29T20:20:10-0500
+12,Moxies,"55 Reading Court Sandman Signature Hotel, Toronto, Ontario M9W 7K7 Canada",2019-08-30T00:45:29-0400
+13,Richmond Station,"1 Richmond St. West, Toronto, Ontario M5H 3W4 Canada",2014-08-21T17:47:33-0400
+14,George Restaurant,"111C Queen St E, Toronto, Ontario M5C 1S2 Canada",2023-02-27T16:15:22-0500
+15,Rasa,"196 Robert St Entrance on Harbord Street, Toronto, Ontario M5S 2K7 Canada",2019-11-30T14:31:26-0500
+16,C'est What?,"67 Front St E Downstairs, Toronto, Ontario M5E 1B5 Canada",2019-04-21T16:21:24-0400
+17,Jacobs & Co. Steakhouse,"12 Brant St, Toronto, Ontario M5V 2M1 Canada",2016-05-14T17:37:32-0400
+18,Baro,"Toronto, ON 485 King St W, Toronto, Ontario M5V 1K4 Canada",2017-09-07T12:07:17-0400
+19,Estiatorio VOLOS,"133 Richmond St W, Toronto, Ontario M5H 2L3 Canada",2019-05-10T18:32:18-0400
+20,House on Parliament,"454 Parliament St, Toronto, Ontario M5A 3A2 Canada",2021-08-30T15:58:09-0400
+21,The Keg Steakhouse + Bar - York Street,"165 York St, Toronto, Ontario M5H 3R8 Canada",2018-07-29T20:48:49-0400
+22,The Keg Steakhouse + Bar - Esplanade,"26 The Esplanade Esplanade, Toronto, Ontario M5E 1A7 Canada",2019-09-28T10:47:05-0400
+23,Dasha,"620 King St W, Toronto, Ontario M5V 1M6 Canada",2020-02-11T19:53:14-0500
+24,Chiado Restaurant,"864 College St, Toronto, Ontario M6H 1A3 Canada",2020-08-06T19:41:39-0400
+25,Lee Restaurant,"497 Richmond St W, Toronto, Ontario M5V 1Y3 Canada",2023-12-05T12:48:15-0500
+26,The Keg Steakhouse + Bar - Mansion,"515 Jarvis St, Toronto, Ontario M4Y 2H7 Canada",2015-09-14T07:07:03-0400
+27,Perfect Chinese Restaurant,"4386 Sheppard Ave East Scarborough ON Canada, Toronto, Ontario M1S 1T8 Canada",2021-01-15T09:47:07-0500
