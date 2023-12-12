@@ -51,7 +51,8 @@ TBD
 
 ## Analysis 
 
-TBD
+Ontario's outlook for the accommodation industry is positive for the 2022-24 worker forecast period.
+Total economic activity in Canada's accommodation sector is expected to reach pre-pandemic levels in 2023.
 
 ## Limitations
 TBD
