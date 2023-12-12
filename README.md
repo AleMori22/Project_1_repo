@@ -33,8 +33,11 @@ Sung Hea Cho (@sunghea)
 ## Datasets used: 
 datasets used:
 https://data.ontario.ca/en/dataset/tourism-outlook/resource/dbdf41ee-ff38-4654-9b70-c2846b8d2c2a
-Accommodation services, distribution of sales by type of service provided (statcan.gc.ca)
+
+#Accommodation services, distribution of sales by type of service provided (statcan.gc.ca)
+
 https://www.ontario.ca/page/tourism-research-statistics
+
 https://data.ontario.ca/en/dataset/inbound-visits/resource/5f4a16e2-7e88-488f-b011-cc636becb04b
 
 
