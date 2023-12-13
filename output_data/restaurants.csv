@@ -76,12 +76,24 @@ Restaurant ID,Location,Restaurant Name,Postal Code,Restaurant Address,Lat,Lng,Lo
 355,Ottawa City Centre,C’est Japon À Suisha,K1P 5H8,"208 Slater Street, (Old) Ottawa, ON K1P 5H8, Canada",45.41943920042278,-75.6991906,689713
 361,Ottawa City Centre,Sansotei Ramen,K1P 5N7,"153 Bank Street, (Old) Ottawa, ON K1P 5N7, Canada",45.41893780042287,-75.69922289999998,10316696
 364,Ottawa City Centre,Mad Radish,K1P 5H9,"275 Slater Street, (Old) Ottawa, ON K1P 5H9, Canada",45.41874250042288,-75.7018907,17643925
-399,Niagara Falls,Young Garden Authentic Korean Cuisine,L2G 3Y3,"Stanley Avenue, Niagara Falls, ON L2G 3Y3, Canada",43.086845000538474,-79.08503195,4242572
-405,Niagara Falls,AlMac's Buffet,L2G 1S2,"5435 Ferry Street, Niagara Falls, ON L2G 1S2, Canada",43.089775200538554,-79.0843294,1110107
-415,Niagara Falls,Shoeless Joe's,L2G 7X5,"6380 Fallsview Boulevard, Niagara Falls, ON L2G 7X5, Canada",43.083297300538405,-79.082415,1210089
-418,Niagara Falls,Brasa Brazilian Steakhouse,L2G 3V9,"6361 Fallsview Boulevard, Niagara Falls, ON L2G 3V9, Canada",43.083231300538415,-79.08332759999999,1546799
-419,Niagara Falls,Antica Pizzeria & Ristorante,L2G 3L6,"5785 Victoria Avenue, Niagara Falls, ON L2G 3L6, Canada",43.09152780053859,-79.07739,767950
-420,Niagara Falls,Falls Deli,L2G 7X5,"6380 Fallsview Boulevard, Niagara Falls, ON L2G 7X5, Canada",43.08284470053841,-79.0796113,11681114
-422,Niagara Falls,Brasa,L2G 3V9,"6361 Fallsview Boulevard, Niagara Falls, ON L2G 3V9, Canada",43.08245260053841,-79.08307689999998,1546799
-425,Niagara Falls,Spicy Olive Bar + Grille,L2G 3N7,"Centre Street, Niagara Falls, ON L2G 3N7, Canada",43.0923529005386,-79.07695219999998,5921041
-428,Niagara Falls,Boston Pizza,L2G 3N4,"4950 Clifton Hill, Niagara Falls, ON L2G 3N4, Canada",43.09108790053857,-79.0748048,519035
+395,Ottawa Rideau Canal,Sen Asian Cuisine,K1S 5J3,"200 Marché Way, (Old) Ottawa, ON K1S 5J3, Canada",45.39995480042516,-75.68428869999998,8625386
+417,Ottawa Rideau Canal,Cantina Gia,K1S 3V3,"749 Bank Street, (Old) Ottawa, ON K1S 3V3, Canada",45.404201000424635,-75.6888867,23677493
+430,Niagara Falls,Young Garden Authentic Korean Cuisine,L2G 3Y3,"Stanley Avenue, Niagara Falls, ON L2G 3Y3, Canada",43.086845000538474,-79.08503195,4242572
+436,Niagara Falls,AlMac's Buffet,L2G 1S2,"5435 Ferry Street, Niagara Falls, ON L2G 1S2, Canada",43.089775200538554,-79.0843294,1110107
+446,Niagara Falls,Shoeless Joe's,L2G 7X5,"6380 Fallsview Boulevard, Niagara Falls, ON L2G 7X5, Canada",43.083297300538405,-79.082415,1210089
+449,Niagara Falls,Brasa Brazilian Steakhouse,L2G 3V9,"6361 Fallsview Boulevard, Niagara Falls, ON L2G 3V9, Canada",43.083231300538415,-79.08332759999999,1546799
+450,Niagara Falls,Antica Pizzeria & Ristorante,L2G 3L6,"5785 Victoria Avenue, Niagara Falls, ON L2G 3L6, Canada",43.09152780053859,-79.07739,767950
+451,Niagara Falls,Falls Deli,L2G 7X5,"6380 Fallsview Boulevard, Niagara Falls, ON L2G 7X5, Canada",43.08284470053841,-79.0796113,11681114
+453,Niagara Falls,Brasa,L2G 3V9,"6361 Fallsview Boulevard, Niagara Falls, ON L2G 3V9, Canada",43.08245260053841,-79.08307689999998,1546799
+456,Niagara Falls,Spicy Olive Bar + Grille,L2G 3N7,"Centre Street, Niagara Falls, ON L2G 3N7, Canada",43.0923529005386,-79.07695219999998,5921041
+459,Niagara Falls,Boston Pizza,L2G 3N4,"4950 Clifton Hill, Niagara Falls, ON L2G 3N4, Canada",43.09108790053857,-79.0748048,519035
+473,Niagara Amusement Park,Boston Pizza,L2G 3N4,"4950 Clifton Hill, Niagara Falls, ON L2G 3N4, Canada",43.09108790053857,-79.0748048,519035
+476,Niagara Amusement Park,The Guru Fine Indian Cuisine,L2G 3L5,"5705 Victoria Avenue, Niagara Falls, ON L2G 3L5, Canada",43.0924734005386,-79.0757137,981795
+477,Niagara Amusement Park,Antica Pizzeria & Ristorante,L2G 3L6,"5785 Victoria Avenue, Niagara Falls, ON L2G 3L6, Canada",43.09152780053859,-79.07739,767950
+478,Niagara Amusement Park,Spicy Olive Bar + Grille,L2G 3N7,"Centre Street, Niagara Falls, ON L2G 3N7, Canada",43.0923529005386,-79.07695219999998,5921041
+479,Niagara Amusement Park,Virsa Fine Indian Cuisine,L2G 3L5,"5677 Victoria Avenue, Niagara Falls, ON L2G 3L5, Canada",43.092797600538596,-79.0752022,10445293
+481,Niagara Amusement Park,Remingtons of Niagara,L2G 3L5,"Victoria Avenue, Niagara Falls, ON L2G 3L5, Canada",43.092884100538605,-79.0750224,1479180
+486,Niagara Amusement Park,Rainforest Cafe,L2G 3N5,"4915 Clifton Hill, Niagara Falls, ON L2G 3N5, Canada",43.09113100053856,-79.07311929999999,708192
+488,Niagara Amusement Park,Weinkeller,L2G 3L5,"5633 Victoria Avenue, Niagara Falls, ON L2G 3L5, Canada",43.09330070053862,-79.07432879999999,4752346
+504,Niagara Amusement Park,Italian ice cream,L2G 3L2,"5458 Victoria Avenue, Niagara Falls, ON L2G 3L2, Canada",43.09568310053866,-79.0727368,1917372
+510,Niagara Amusement Park,AlMac's Buffet,L2G 1S2,"5435 Ferry Street, Niagara Falls, ON L2G 1S2, Canada",43.089775200538554,-79.0843294,1110107
