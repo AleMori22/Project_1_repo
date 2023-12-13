@@ -44,8 +44,22 @@ https://data.ontario.ca/dataset/hotel-statistics
 ` import pandas as pd`
 
 ## Analysis 
+Sung Hea, my copartner, is working on hotel statistics from pre-covid. 
 
+Trends noticed throughout all graphs:
+
+Downtown Toronto has the most revenue and sales for hotels for 2022 and 2023. 
+
+The amount of sales and revenues from hotels increase as each month passes. 
+
+Most hotel sales come from the months of June, July and August. 
 
 ## Limitations
 
-We only took data from 2021 and 2022, but nothing before or after... 
+Data is limited to February to September 2023 and 2022. 
+
+Data specifically from Statisitcs Canada and Ontario Canada.
+
+Mainly coming from government databases. 
+
+Could not find a proper API with hotel statistics, data sources availale online are limited.
