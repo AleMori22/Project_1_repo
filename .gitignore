@@ -1,6 +1,7 @@
 #API KEY
 config.py
 res_config.py
+Project_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
