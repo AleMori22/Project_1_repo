@@ -9,7 +9,7 @@ This project talks about
 
 The analysis we're going to do is .. 
 1. Total yearly inbound flights at Toronto Pearson from 2018-2023
-2. Restaurant average check by area, comparing tourist and non-tourist performance
+2. Hospitality industry pre and post pandemic status. 
 3. Hotel/Vacation Rentals Occupancies from 2018-2023
 4. Traveler changes from Pre-COVID & Post-COVID
 
@@ -28,12 +28,14 @@ The members in this group are:
 5. Sung Hea Cho (@sunghea)
 
 ## Work breakdown structure
+
 Flights: Amy
 Restaurants: Alessandro & Khemaka 
 Hotels/Vacation Rentals: Arti & Sung Hea 
 Traveler Profile: All 
+
 - Cleaning the airline data to show travellers that actually stay in Toronto/Ontario, not just connecting
-- Average restaurant split into categories based on price, comparing tourist areas and non tourist areas. 
+- Average performance of restaurants located in touristic areas, drinking spot's monthly sales from 2018 to 2023. 
 - Year Scope: Pre-COVID - 2018 & 2019, During Covid - 2020 & 2021, After Covid - 2022 & 2023
 
 ## Datasets used: 
@@ -45,14 +47,15 @@ Traveler Profile: All
 5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
 6. Hotel Statistics (multi-year)
 (https://data.ontario.ca/dataset/947f4c51-7613-4279-9fd8-2e3d09be307a/resource/fdbd6ea8-a664-4422-8aab-8abca205df44/download/mtcs-hotel-performance-en-2022.xlsx)
+7. Tripadvisor API (https://api.content.tripadvisor.com/api/v1/location/)
 
 ## Code snippets
 TBD
 
 ## Analysis 
 
-Ontario's the accommodation industry reach pre-pandemic levels in 2023
-
+With the script we provided we are trying to analyze the touristic industry from multiple points of view, taking into consideration the flight, restaurant and hotel industry in order to have a picture of the current state of the mentioned markets in 2023 and compare it with the same market's state before the COVID-19 pandemic.
 
 ## Limitations
-TBD
+
+For what concerns the tripadvisor API drill we found some limitations when it came to finding restaurant reviews. In fact the API, for every call, returns just the last five reviews for each restaurant in the book. This limitation though is neglectable. We used this API to analyze a sample of the restaurants located in the hotspots in analysis, in order to have a general understanding of the state of the restaurant's market right now.
