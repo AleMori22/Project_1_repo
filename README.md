@@ -50,7 +50,7 @@ TBD
 ## Analysis 
 
 ## Flights
-![alt text]([https://github.com/AleMori22/Project_1_repo/tree/main/output/Screened_Passengers_top_8_Airports.png](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_8_Airports.png))
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_8_Airports.png)
 
 ## Hotels 
 ## Restaurants
