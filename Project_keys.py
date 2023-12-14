@@ -1,2 +1,0 @@
-khem_rapid_key = "786f659e9bmshd66cbaced902f06p1949d4jsn0e5f40b56fcc"
-google_api_key = "AIzaSyDWl6IJ02qiD6Sc4HR7nISou9Q0Z3Ofw8A"
