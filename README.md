@@ -43,13 +43,16 @@ Traveler Profile: All
 3. StatCan (https://www150.statcan.gc.ca/n1/pub/24-25-0001/242500012020001-eng.htm)
 4. Weather API (https://openweathermap.org/api)
 5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
+6. Hotel Statistics (multi-year)
+(https://data.ontario.ca/dataset/947f4c51-7613-4279-9fd8-2e3d09be307a/resource/fdbd6ea8-a664-4422-8aab-8abca205df44/download/mtcs-hotel-performance-en-2022.xlsx)
 
 ## Code snippets
 TBD
 
 ## Analysis 
 
-TBD
+Ontario's the accommodation industry reach pre-pandemic levels in 2023
+
 
 ## Limitations
 TBD
