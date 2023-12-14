@@ -50,7 +50,7 @@ TBD
 ## Analysis 
 
 ## Flights
-!(../output/Screened_Passengers_Top_8_Airports.png)
+![alt text](../output/Screened_Passengers_Top_8_Airports.png)
 
 ## Hotels 
 ## Restaurants
