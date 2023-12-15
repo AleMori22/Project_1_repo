@@ -37,13 +37,12 @@ Hotels: Arti & Sunghea
 ## Datasets used: 
 
 1. Geoapify (https://www.geoapify.com/)
-2. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
-3. Tripadvisor API (https://api.content.tripadvisor.com/api/v1/location/)
-4. Traveladvisor API (https://rapidapi.com/apidojo/api/travel-advisor)
-5. Google Places API (https://developers.google.com/maps/documentation/places/web-service/overview)
+2. Tripadvisor API (https://api.content.tripadvisor.com/api/v1/location/)
+3. Traveladvisor API (https://rapidapi.com/apidojo/api/travel-advisor)
+4. Google Places API (https://developers.google.com/maps/documentation/places/web-service/overview)
+5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
 6. Sales of Drinking Places Canada 2023 (https://www.statista.com/statistics/323660/sales-of-drinking-places-in-canada/)
-7. Hotel Statistics (multi-year)
-(https://data.ontario.ca/dataset/947f4c51-7613-4279-9fd8-2e3d09be307a/resource/fdbd6ea8-a664-4422-8aab-8abca205df44/download/mtcs-hotel-performance-en-2022.xlsx)
+7. Hotel Statistics (multi-year) (https://data.ontario.ca/dataset/947f4c51-7613-4279-9fd8-2e3d09be307a/resource/fdbd6ea8-a664-4422-8aab-8abca205df44/download/mtcs-hotel-performance-en-2022.xlsx)
 
 ## Code snippets
 Cleaning Data by Date: 
