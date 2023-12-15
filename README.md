@@ -141,7 +141,6 @@ df_res = pd.DataFrame(res_data)
 ## Limitations
 - Amadeus API initially  looked promising for flight data, but only returns success/failure messages in test environment, data is only available in production but a successful app must be developed to enter production environment. 
 - For what concerns the tripadvisor API drill we found some limitations when it came to finding restaurant reviews. In fact the API, for every call, returns just the last five reviews for each restaurant in the book. This limitation though is neglectable. We used this API to analyze a sample of the restaurants located in the hotspots in analysis, in order to have a general understanding of the state of the restaurant's market right now.
-- Restaurant quality data sources were very limited and using multiple APIs was needed to get a full picture.
 - Restaurant industry does not appear to have datasets that are detailed or big enough when compared to hotel industry. This might be due to the fact that restaurants require almost no information to their customers and are not obligated to take records of their clients and operations like hotels are. 
 - Hotel data sources are limited to government databases and no large datasets or APIs for Hotel Data could be found. 
 - Scarce data for 2023 which made comparisons of pre-COVID and post-COVID difficult. 
