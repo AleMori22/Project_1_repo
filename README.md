@@ -120,6 +120,8 @@ df_res = pd.DataFrame(res_data)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_8_Airports.png)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_17_Airports.png)
 
+By comparing the yearly summary for screened passengers, we can see that 2022 & 2023's passenger counts have significantly increased over 2020 & 2021's passenger counts, yet have not yet caught up to 2019. 2022's performance is greater when factoring smaller regional airports included in the top 17 airports compared to only the top 8 airports. 
+
 ## Hotels 
 
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Average_Daily_Rate_by_Year.png)
@@ -128,6 +130,9 @@ df_res = pd.DataFrame(res_data)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure1.png)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure2.png)
 
+In analyzing statistics provided by the Ontario government, Average Daily Rates, Occupancy  & Revenue Per Available Room have all appeared to have recovered to pre-COVID levels. 
+When looking at Revenue Per Available Room across different areas in Ontario, we can see that Downtown Toronto has the highest value, followered by Greater Toronto. Eastern Ontario has the lowest value. 
+
 
 ## Restaurants
 ![alt_text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Drinking_Plot.png)
@@ -135,6 +140,10 @@ df_res = pd.DataFrame(res_data)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Relevant_Review.png)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Locations_map.png)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/average_review_plot.png)
+
+When looking at the monthly sales of drinking restaurants throughout Canada we get a good indication of how the industry is faring. The analysis is split into three parts, pre-covid, COVID and post-covid. When looking at the pre-covid (March 2018 – February 2020) we have an average monthly sale of 208.91 thousand dollars. With July 2019 having the highest sales of 224.55 thousand dollars. his is our baseline of how the drinking industry was thriving and the point at which we are trying to return. It is to be noted that for this analysis, January and February were omitted due to the lack of data, causing the two to be outliers.
+During covid (March 2020 – January 2022), sales dropped to significantly to an average of 109 thousand dollars monthly. This was expected due to the travel limitations set during the quarantine. As well as the inability to go visit bars, pubs, and restaurants. This period showcased the lowest sales with April 2020 being the lowest at 19.09 thousand dollars.
+With COVID-19 still being an ongoing issue, it is hard to pinpoint an exact date at which the pandemic “ended”. For this analysis, the post-covid period was set to April 2020 – August 2023. The average monthly sales amount to an average of 209.94 thousand per month. Comparing this to our baseline, we can see that the post-covid period exceeded the pre-covid market sales. This period had the second highest number of sales with 222.04 thousand dollars in January 2023.
 
 
 
