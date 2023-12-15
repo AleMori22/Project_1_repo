@@ -129,7 +129,7 @@ By comparing the yearly summary for screened passengers, we can see that 2022 & 
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure1.png)
 ![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure2.png)
 
-In analyzing statistics provided by the Ontario government, Average Daily Rates, Occupancy  & Revenue Per Available Room have all appeared to have recovered to pre-COVID levels. 
+In analyzing statistics provided by the Ontario government, Average Daily Rates & Revenue Per Available Room have all appeared to have recovered to pre-COVID levels, however Occupancy rates are still below pre-COVID levels. 
 When looking at Revenue Per Available Room across different areas in Ontario, we can see that Downtown Toronto has the highest value, followered by Greater Toronto. Eastern Ontario has the lowest value. 
 
 
