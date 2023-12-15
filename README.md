@@ -2,21 +2,22 @@
 
 ## Description of the Project 
 
-This project talks about 
-1. Traveler Profile : Who is traveling, what is their average income, the reason for their travel, are they traveling alone or with family? etc 
-2. Inbound airline traffic comparison at Toronto Pearson (YYZ)
-3. Restaurant Gross Revenue Comparison 
+This project aims to examine the impact of the COVID-19 impact on Ontario's tourism industry, by comparing trends across the airline, hotel & restaurant industries both before, during, and after COVID-19.  
 
-The analysis we're going to do is .. 
-1. Total yearly inbound flights at Toronto Pearson from 2018-2023
-2. Hospitality industry pre and post pandemic status. 
-3. Hotel/Vacation Rentals Occupancies from 2018-2023
-4. Traveler changes from Pre-COVID & Post-COVID
+The analysis we're going to do is: 
+1. Total passengers screened at Canada's Top 8 & 17 airports from 2018-2023
+2. Hotels' Average Daily Rate, Occupancy and Revenue per Available Room from 2018-2023, including yearly and monthly. 
+3. Overall drink sales from 2018-2023
+4. Restaurant Average Reviews by Location
+5. Restaurant Operation Status 
 
 The questions we're going to answer are: 
-1. How do inbound flights post-COVID compare to pre-COVID? 
-2. How does overall restaurant revenues post-COVID compare to pre-COVID? 
-3. How has the traveler changed post-COVID? 
+1. How do inbound flights post-COVID compare to pre-COVID?
+2. Is there a difference in passenger volumne between the Top 8 Airports & Top 17 Airports? 
+3. How has Hotels' Average Daily Rate(ADR) and Occupancy changed during these time periods?
+4. How has Hotels' ADR changed through 2022, and is there a significant difference between different geographical areas? 
+5. How have drink sales changed during this period? 
+6. How has the state of the restaurant industry changed? 
 
 ## Members of the group
 
@@ -25,37 +26,123 @@ The members in this group are:
 2. Alessandro Mori (@AleMori22)
 3. Arti Bhatia (@Artib03)
 4. Khemaka Oo (@Khemaka14)
-5. Sung Hea Cho (@sunghea)
+5. Sunghea Cho (@sunghea)
 
 ## Work breakdown structure
 
 Flights: Amy
 Restaurants: Alessandro & Khemaka 
-Hotels/Vacation Rentals: Arti & Sung Hea 
-Traveler Profile: All 
-
-- Cleaning the airline data to show travellers that actually stay in Toronto/Ontario, not just connecting
-- Average performance of restaurants located in touristic areas, drinking spot's monthly sales from 2018 to 2023. 
-- Year Scope: Pre-COVID - 2018 & 2019, During Covid - 2020 & 2021, After Covid - 2022 & 2023
+Hotels: Arti & Sunghea 
 
 ## Datasets used: 
 
 1. Geoapify (https://www.geoapify.com/)
-2. Amadeus API - Flight Volumne (https://developers.amadeus.com/self-service/category/market-insights/api-doc/flight-busiest-traveling-period/api-reference)
-3. StatCan (https://www150.statcan.gc.ca/n1/pub/24-25-0001/242500012020001-eng.htm)
-4. Weather API (https://openweathermap.org/api)
-5. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
-6. Hotel Statistics (multi-year)
+2. Catsa-Acsta Passenger Data (https://www.catsa-acsta.gc.ca/en/screened-passenger-data)
+3. Tripadvisor API (https://api.content.tripadvisor.com/api/v1/location/)
+4. Traveladvisor API (https://rapidapi.com/apidojo/api/travel-advisor)
+5. Google Places API (https://developers.google.com/maps/documentation/places/web-service/overview)
+6. Sales of Drinking Places Canada 2023 (https://www.statista.com/statistics/323660/sales-of-drinking-places-in-canada/)
+7. Hotel Statistics (multi-year)
 (https://data.ontario.ca/dataset/947f4c51-7613-4279-9fd8-2e3d09be307a/resource/fdbd6ea8-a664-4422-8aab-8abca205df44/download/mtcs-hotel-performance-en-2022.xlsx)
-7. Tripadvisor API (https://api.content.tripadvisor.com/api/v1/location/)
 
 ## Code snippets
-TBD
+Cleaning Data by Date: 
+```
+# Create start_date and end_date to desired date range
+start_date = '2023-01-01'
+end_date = '2023-12-03'
+
+# Convert the "Date" column to a datetime object if it's not already
+flight_df['Date'] = pd.to_datetime(flight_df['Date'], errors='coerce')
+
+# Filter rows based on the specified date range
+filtered_df = flight_df[(flight_df['Date'] >= start_date) & (flight_df['Date'] <= end_date)]
+```
+Using iloc and for loop to extract Excel data into data frame: 
+```
+# Extract Data by year 
+for i in year_list:
+    
+    df = pd.read_excel('Resources/mtcs-hotel-performance-en-2022.xlsx', sheet_name = i )
+    new_df = df.dropna(how ='all').dropna(how='all', axis = 1)
+    new_df.reset_index(drop = True, inplace=True)
+
+    columns_to_keep = [0,1,4,7]
+    new_df = new_df.iloc[ :, columns_to_keep]
+    new_columns = {
+         'Unnamed: 1' : 'Area',
+         'Unnamed: 2' : f'{i} Occupancy Percentage',
+         'Unnamed: 6' : f'{i}Average Daily Rate',
+         'Unnamed: 10': f'{i} Revenue Per Available Room'
+     }
+
+    new_df.rename(columns = new_columns, inplace = True)
+    new_df = new_df.iloc[3:-2:]
+    new_df.reset_index(drop = True, inplace=True)
+```
+
+Using Google Places API: 
+```
+locations = [["43.651070,-79.347015"],["45.5019,-73.5674"],["51.0447,-114.0719"]
+             ,["45.4215,-75.6972"],["53.5461,-113.4937"],["49.8954,-97.1385"],
+             ["43.5890,-79.6441"],["49.2827,-123.1207"],["43.7315,-79.7624"],
+             ["43.2557,-79.8711"]]
+  gmaps = googlemaps.Client(key = google_api_key)
+
+res_add = []
+res_status = []
+res_name = []
+for locs in locations:
+    places_result = gmaps.places_nearby(location = locs[0], radius = 40000, open_now = False,type = "restaurant")
+
+
+    for place in places_result["results"]:
+
+        place_details = gmaps.place(place_id = place["place_id"])
+        res_add.append(place_details["result"]["formatted_address"])
+        res_status.append(place_details["result"]["business_status"])
+        res_name.append(place_details["result"]["name"])
+
+res_data = {
+    "Name" : res_name,
+    "Address" : res_add,
+    "Status" : res_status,
+
+}
+
+
+df_res = pd.DataFrame(res_data)
+```
 
 ## Analysis 
 
-With the script we provided we are trying to analyze the touristic industry from multiple points of view, taking into consideration the flight, restaurant and hotel industry in order to have a picture of the current state of the mentioned markets in 2023 and compare it with the same market's state before the COVID-19 pandemic.
+## Flights
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_8_Airports.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Screened_Passengers_Top_17_Airports.png)
+
+## Hotels 
+
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Average_Daily_Rate_by_Year.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Occupancy_Percentage_by_Year.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Revenue_Per_Available_Room_Year.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure1.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/Graph_data/Figure2.png)
+
+
+## Restaurants
+![alt_text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Drinking_Plot.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Buisness%20Status.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Relevant_Review.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/Locations_map.png)
+![alt text](https://github.com/AleMori22/Project_1_repo/blob/main/output/average_review_plot.png)
+
+
 
 ## Limitations
+- Amadeus API initially  looked promising for flight data, but only returns success/failure messages in test environment, data is only available in production but a successful app must be developed to enter production environment. 
+- For what concerns the tripadvisor API drill we found some limitations when it came to finding restaurant reviews. In fact the API, for every call, returns just the last five reviews for each restaurant in the book. This limitation though is neglectable. We used this API to analyze a sample of the restaurants located in the hotspots in analysis, in order to have a general understanding of the state of the restaurant's market right now.
+- Restaurant quality data sources were very limited and using multiple APIs was needed to get a full picture.
+- Restaurant industry does not appear to have datasets that are detailed or big enough when compared to hotel industry. This might be due to the fact that restaurants require almost no information to their customers and are not obligated to take records of their clients and operations like hotels are. 
+- Hotel data sources are limited to government databases and no large datasets or APIs for Hotel Data could be found. 
+- Scarce data for 2023 which made comparisons of pre-COVID and post-COVID difficult. 
 
-For what concerns the tripadvisor API drill we found some limitations when it came to finding restaurant reviews. In fact the API, for every call, returns just the last five reviews for each restaurant in the book. This limitation though is neglectable. We used this API to analyze a sample of the restaurants located in the hotspots in analysis, in order to have a general understanding of the state of the restaurant's market right now.
