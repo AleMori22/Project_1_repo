@@ -12,8 +12,8 @@ The analysis we're going to do is:
 5. Restaurant Operation Status 
 
 The questions we're going to answer are: 
-1. How do inbound flights post-COVID compare to pre-COVID?
-2. Is there a difference in passenger volumne between the Top 8 Airports & Top 17 Airports? 
+1. How does passenger volume post-COVID compare to pre-COVID?
+2. Is there a difference in passenger volume between the Top 8 Airports & Top 17 Airports? 
 3. How has Hotels' Average Daily Rate(ADR) and Occupancy changed during these time periods?
 4. How has Hotels' ADR changed in 2023, and is there a significant difference between different geographical areas? 
 5. How have drink sales changed during this period? 
